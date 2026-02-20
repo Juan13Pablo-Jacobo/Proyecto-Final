@@ -1,0 +1,12 @@
+body{
+    background-color: rosybrown;
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav a{
+    color: aquamarine;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 15px;
+}
